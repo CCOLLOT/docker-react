@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>aasrc/App.js</code> and save sdsdto reload haha this  app.
+          Edit <code>feature/App.js</code> and save and reload this app from.
         </p>
         <a
           className="App-link"
